@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @banned-from-everywhere
-- 👀 I’m interested in learnig diffrent languages and usin them creat wonder full projects
-- 🌱 I’m currently learning python , html ,css
-- 💞️ I’m looking to collaborate on developing my first website
-- 📫 How to reach me mail me on bhavishdhar@gmail.com
-- 😄 Pronouns: he him
-- ⚡ Fun fact:
+# 👋 Hey there, I'm Bhavish Dhar!
 
-<!---
-banned-from-everywhere/banned-from-everywhere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### aka "banned from everywhere" 😆
+
+🚀 **Tech enthusiast | Student at Newton School of Technology**
+
+---
+
+## 🔧 Tech Stack & Tools:
+- **Languages**: Python, JavaScript, DSA, HTML, CSS
+- **Backend & Databases**: Node.js, MSSQL
+- **Tools & Platforms**: VS Code, Docker, Azure Data Studio, CLI
+
+## 🛠 Projects:
+- 🛒 **E-commerce Website** - My first major project!
+- 🌐 **Portfolio Website** - Showcasing my work & skills.
+- 🤖 **RoboSoccer (Arduino Uno)** - Coded and built a robotics-based soccer bot.
+- 💬 **Chatbot** - Built a chatbot with interactive capabilities.
+
+## 🎸 Beyond Coding:
+🎵 I love playing guitar, flute, bass, and beatboxing! Also, I enjoy boxing. 🥊
+
+## 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+
+---
+🚀 Always learning and exploring new tech! Feel free to check out my repos and collaborate. 😃
+
