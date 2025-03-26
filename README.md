@@ -13,9 +13,7 @@
 
 ## 🛠 Projects:
 - 🛒 **E-commerce Website** - My first major project!
-- 🌐 **Portfolio Website** - Showcasing my work & skills.
-- 🤖 **RoboSoccer (Arduino Uno)** - Coded and built a robotics-based soccer bot.
-- 💬 **Chatbot** - Built a chatbot with interactive capabilities.
+- 🤖 **cybertruck (ESP32)** - Coded and built a robotics-based soccer bot.
 
 ## 🎸 Beyond Coding:
 🎵 I love playing guitar, flute, bass, and beatboxing! Also, I enjoy boxing. 🥊
